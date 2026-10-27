@@ -1,0 +1,2143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Pin+">
+  <channel id="ESPN+ 001">
+    <display-name>ESPN+ 001</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027080000 -0500" stop="20261027110000 -0500" channel="ESPN+ 001">
+    <title lang="en">Football: Good Morning Football (Good Morning Football)</title>
+    <desc lang="en">Football: Good Morning Football (Good Morning Football)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 002">
+    <display-name>ESPN+ 002</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 003">
+    <display-name>ESPN+ 003</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027100000 -0500" stop="20261027130000 -0500" channel="ESPN+ 003">
+    <title lang="en">The Golics Oct 27 10:00AM ET</title>
+    <desc lang="en">The Golics Oct 27 10:00AM ET</desc>
+  </programme>
+  <channel id="ESPN+ 004">
+    <display-name>ESPN+ 004</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 005">
+    <display-name>ESPN+ 005</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 006">
+    <display-name>ESPN+ 006</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 007">
+    <display-name>ESPN+ 007</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 008">
+    <display-name>ESPN+ 008</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 009">
+    <display-name>ESPN+ 009</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 010">
+    <display-name>ESPN+ 010</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 011">
+    <display-name>ESPN+ 011</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027120040 -0500" stop="20261027150040 -0500" channel="ESPN+ 011">
+    <title lang="en">Football: NFL Total Access (NFL Total Access)</title>
+    <desc lang="en">Football: NFL Total Access (NFL Total Access)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 012">
+    <display-name>ESPN+ 012</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 013">
+    <display-name>ESPN+ 013</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 014">
+    <display-name>ESPN+ 014</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 015">
+    <display-name>ESPN+ 015</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 016">
+    <display-name>ESPN+ 016</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027130010 -0500" stop="20261027160010 -0500" channel="ESPN+ 016">
+    <title lang="en">Football: South Carolina Football Press Conference (South Carolina Football Press Conference)</title>
+    <desc lang="en">Football: South Carolina Football Press Conference (South Carolina Football Press Conference)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 017">
+    <display-name>ESPN+ 017</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027130020 -0500" stop="20261027160020 -0500" channel="ESPN+ 017">
+    <title lang="en">Football: SEC Now: Open Mic (SEC Now: Open Mic)</title>
+    <desc lang="en">Football: SEC Now: Open Mic (SEC Now: Open Mic)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 018">
+    <display-name>ESPN+ 018</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 019">
+    <display-name>ESPN+ 019</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 020">
+    <display-name>ESPN+ 020</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 021">
+    <display-name>ESPN+ 021</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 022">
+    <display-name>ESPN+ 022</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027140000 -0500" stop="20261027170000 -0500" channel="ESPN+ 022">
+    <title lang="en">UTSA Weekly MBB Press Conference Oct 27 2:00PM ET</title>
+    <desc lang="en">UTSA Weekly MBB Press Conference Oct 27 2:00PM ET</desc>
+  </programme>
+  <channel id="ESPN+ 023">
+    <display-name>ESPN+ 023</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027140005 -0500" stop="20261027170005 -0500" channel="ESPN+ 023">
+    <title lang="en">Football: College Football Live (College Football Live)</title>
+    <desc lang="en">Football: College Football Live (College Football Live)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 024">
+    <display-name>ESPN+ 024</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027142500 -0500" stop="20261027172500 -0500" channel="ESPN+ 024">
+    <title lang="en">Football: California Football Press Conference (California Football Press Conference)</title>
+    <desc lang="en">Football: California Football Press Conference (California Football Press Conference)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 025">
+    <display-name>ESPN+ 025</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 026">
+    <display-name>ESPN+ 026</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 027">
+    <display-name>ESPN+ 027</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 028">
+    <display-name>ESPN+ 028</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 029">
+    <display-name>ESPN+ 029</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027150005 -0500" stop="20261027180005 -0500" channel="ESPN+ 029">
+    <title lang="en">Basketball: NBA Today (NBA Today)</title>
+    <desc lang="en">Basketball: NBA Today (NBA Today)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 030">
+    <display-name>ESPN+ 030</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027150010 -0500" stop="20261027180010 -0500" channel="ESPN+ 030">
+    <title lang="en">Soccer: Fútbol Picante (Fútbol Picante)</title>
+    <desc lang="en">Soccer: Fútbol Picante (Fútbol Picante)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 031">
+    <display-name>ESPN+ 031</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 032">
+    <display-name>ESPN+ 032</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 033">
+    <display-name>ESPN+ 033</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 034">
+    <display-name>ESPN+ 034</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 035">
+    <display-name>ESPN+ 035</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027160005 -0500" stop="20261027190005 -0500" channel="ESPN+ 035">
+    <title lang="en">Football: Always College Football (Always College Football)</title>
+    <desc lang="en">Football: Always College Football (Always College Football)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 036">
+    <display-name>ESPN+ 036</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027160010 -0500" stop="20261027190010 -0500" channel="ESPN+ 036">
+    <title lang="en">Football: NFL Live (NFL Live)</title>
+    <desc lang="en">Football: NFL Live (NFL Live)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 037">
+    <display-name>ESPN+ 037</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 038">
+    <display-name>ESPN+ 038</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 039">
+    <display-name>ESPN+ 039</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 040">
+    <display-name>ESPN+ 040</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 041">
+    <display-name>ESPN+ 041</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 042">
+    <display-name>ESPN+ 042</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 043">
+    <display-name>ESPN+ 043</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 044">
+    <display-name>ESPN+ 044</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 045">
+    <display-name>ESPN+ 045</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027170020 -0500" stop="20261027200020 -0500" channel="ESPN+ 045">
+    <title lang="en">Football: NFL Fantasy Live (NFL Fantasy Live)</title>
+    <desc lang="en">Football: NFL Fantasy Live (NFL Fantasy Live)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 046">
+    <display-name>ESPN+ 046</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027170030 -0500" stop="20261027200030 -0500" channel="ESPN+ 046">
+    <title lang="en">Baseball: Baseball Tonight (Baseball Tonight)</title>
+    <desc lang="en">Baseball: Baseball Tonight (Baseball Tonight)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 047">
+    <display-name>ESPN+ 047</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 048">
+    <display-name>ESPN+ 048</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 049">
+    <display-name>ESPN+ 049</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 050">
+    <display-name>ESPN+ 050</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 051">
+    <display-name>ESPN+ 051</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 052">
+    <display-name>ESPN+ 052</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 053">
+    <display-name>ESPN+ 053</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 054">
+    <display-name>ESPN+ 054</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 055">
+    <display-name>ESPN+ 055</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 056">
+    <display-name>ESPN+ 056</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 057">
+    <display-name>ESPN+ 057</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 058">
+    <display-name>ESPN+ 058</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 059">
+    <display-name>ESPN+ 059</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 060">
+    <display-name>ESPN+ 060</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027180100 -0500" stop="20261027210100 -0500" channel="ESPN+ 060">
+    <title lang="en">Soccer: Man City vs. UE Cornellà (ESP) (Man City vs. UE Cornellà (ESP))</title>
+    <desc lang="en">Soccer: Man City vs. UE Cornellà (ESP) (Man City vs. UE Cornellà (ESP))</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 061">
+    <display-name>ESPN+ 061</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027180110 -0500" stop="20261027210110 -0500" channel="ESPN+ 061">
+    <title lang="en">Soccer: William &amp; Mary vs. #16 North Carolina (William &amp; Mary vs. #16 North Carolina)</title>
+    <desc lang="en">Soccer: William &amp; Mary vs. #16 North Carolina (William &amp; Mary vs. #16 North Carolina)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 062">
+    <display-name>ESPN+ 062</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 063">
+    <display-name>ESPN+ 063</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 064">
+    <display-name>ESPN+ 064</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027183010 -0500" stop="20261027213010 -0500" channel="ESPN+ 064">
+    <title lang="en">Basketball: Florida A&amp;M vs. Tennessee (EXH) (Florida A&amp;M vs. Tennessee (EXH))</title>
+    <desc lang="en">Basketball: Florida A&amp;M vs. Tennessee (EXH) (Florida A&amp;M vs. Tennessee (EXH))</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 065">
+    <display-name>ESPN+ 065</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 066">
+    <display-name>ESPN+ 066</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 067">
+    <display-name>ESPN+ 067</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 068">
+    <display-name>ESPN+ 068</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 069">
+    <display-name>ESPN+ 069</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 070">
+    <display-name>ESPN+ 070</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027190025 -0500" stop="20261027220025 -0500" channel="ESPN+ 070">
+    <title lang="en">The Point Oct 27 7:00PM ET</title>
+    <desc lang="en">The Point Oct 27 7:00PM ET</desc>
+  </programme>
+  <channel id="ESPN+ 071">
+    <display-name>ESPN+ 071</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 072">
+    <display-name>ESPN+ 072</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 073">
+    <display-name>ESPN+ 073</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 074">
+    <display-name>ESPN+ 074</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 075">
+    <display-name>ESPN+ 075</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 076">
+    <display-name>ESPN+ 076</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 077">
+    <display-name>ESPN+ 077</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 078">
+    <display-name>ESPN+ 078</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 079">
+    <display-name>ESPN+ 079</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027190115 -0500" stop="20261027220115 -0500" channel="ESPN+ 079">
+    <title lang="en">Football: The Insiders (The Insiders)</title>
+    <desc lang="en">Football: The Insiders (The Insiders)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 080">
+    <display-name>ESPN+ 080</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027190120 -0500" stop="20261027220120 -0500" channel="ESPN+ 080">
+    <title lang="en">Basketball: Stetson vs. Florida (EXH) (Stetson vs. Florida (EXH))</title>
+    <desc lang="en">Basketball: Stetson vs. Florida (EXH) (Stetson vs. Florida (EXH))</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 081">
+    <display-name>ESPN+ 081</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 082">
+    <display-name>ESPN+ 082</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 083">
+    <display-name>ESPN+ 083</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 084">
+    <display-name>ESPN+ 084</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 085">
+    <display-name>ESPN+ 085</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 086">
+    <display-name>ESPN+ 086</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 087">
+    <display-name>ESPN+ 087</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 088">
+    <display-name>ESPN+ 088</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 089">
+    <display-name>ESPN+ 089</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 090">
+    <display-name>ESPN+ 090</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 091">
+    <display-name>ESPN+ 091</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 092">
+    <display-name>ESPN+ 092</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027193050 -0500" stop="20261027223050 -0500" channel="ESPN+ 092">
+    <title lang="en">Basketball: Charlotte vs. North Carolina (Charlotte vs. North Carolina)</title>
+    <desc lang="en">Basketball: Charlotte vs. North Carolina (Charlotte vs. North Carolina)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 093">
+    <display-name>ESPN+ 093</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027193055 -0500" stop="20261027223055 -0500" channel="ESPN+ 093">
+    <title lang="en">NCAA Men`s Basketball: Stetson vs. Florida (EXH) • Charlotte vs. North Carolina (Stetson vs. Florida (EXH) )</title>
+    <desc lang="en">NCAA Men`s Basketball: Stetson vs. Florida (EXH) • Charlotte vs. North Carolina (Stetson vs. Florida (EXH) )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 094">
+    <display-name>ESPN+ 094</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027193150 -0500" stop="20261027223150 -0500" channel="ESPN+ 094">
+    <title lang="en">NHL: NJ vs. DAL • NYI vs. NSH (NJ vs. DAL )</title>
+    <desc lang="en">NHL: NJ vs. DAL • NYI vs. NSH (NJ vs. DAL )</desc>
+  </programme>
+  <channel id="ESPN+ 095">
+    <display-name>ESPN+ 095</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027193155 -0500" stop="20261027223155 -0500" channel="ESPN+ 095">
+    <title lang="en">NHL: CBJ vs. PHI • FLA vs. WPG (CBJ vs. PHI )</title>
+    <desc lang="en">NHL: CBJ vs. PHI • FLA vs. WPG (CBJ vs. PHI )</desc>
+  </programme>
+  <channel id="ESPN+ 096">
+    <display-name>ESPN+ 096</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 097">
+    <display-name>ESPN+ 097</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 098">
+    <display-name>ESPN+ 098</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 099">
+    <display-name>ESPN+ 099</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200015 -0500" stop="20261027230015 -0500" channel="ESPN+ 099">
+    <title lang="en">Football: Giants vs. Texans (Giants vs. Texans)</title>
+    <desc lang="en">Football: Giants vs. Texans (Giants vs. Texans)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 100">
+    <display-name>ESPN+ 100</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200020 -0500" stop="20261027230020 -0500" channel="ESPN+ 100">
+    <title lang="en">Football: SEC Inside: Ole Miss vs. Texas (SEC Inside: Ole Miss vs. Texas)</title>
+    <desc lang="en">Football: SEC Inside: Ole Miss vs. Texas (SEC Inside: Ole Miss vs. Texas)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 101">
+    <display-name>ESPN+ 101</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200025 -0500" stop="20261027230025 -0500" channel="ESPN+ 101">
+    <title lang="en">Football: The Pulse: Texas A&amp;M Football _ Ep. 15 (The Pulse: Texas A&amp;M Football _ Ep. 15)</title>
+    <desc lang="en">Football: The Pulse: Texas A&amp;M Football _ Ep. 15 (The Pulse: Texas A&amp;M Football _ Ep. 15)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 102">
+    <display-name>ESPN+ 102</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200030 -0500" stop="20261027230030 -0500" channel="ESPN+ 102">
+    <title lang="en">Football: Sam Houston vs. Missouri St (Sam Houston vs. Missouri St)</title>
+    <desc lang="en">Football: Sam Houston vs. Missouri St (Sam Houston vs. Missouri St)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 103">
+    <display-name>ESPN+ 103</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200035 -0500" stop="20261027230035 -0500" channel="ESPN+ 103">
+    <title lang="en">NCAA Football: WWE NXT • SHSU vs. MOST (WWE NXT )</title>
+    <desc lang="en">NCAA Football: WWE NXT • SHSU vs. MOST (WWE NXT )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 104">
+    <display-name>ESPN+ 104</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200040 -0500" stop="20261027230040 -0500" channel="ESPN+ 104">
+    <title lang="en">NCAA Football: BOS vs. CAR • SHSU vs. MOST (BOS vs. CAR )</title>
+    <desc lang="en">NCAA Football: BOS vs. CAR • SHSU vs. MOST (BOS vs. CAR )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 105">
+    <display-name>ESPN+ 105</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200045 -0500" stop="20261027230045 -0500" channel="ESPN+ 105">
+    <title lang="en">NCAA Football: BOS vs. CAR • WWE NXT • SHSU vs. MOST (BOS vs. CAR )</title>
+    <desc lang="en">NCAA Football: BOS vs. CAR • WWE NXT • SHSU vs. MOST (BOS vs. CAR )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 106">
+    <display-name>ESPN+ 106</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200055 -0500" stop="20261027230055 -0500" channel="ESPN+ 106">
+    <title lang="en">Hockey: Bruins vs. Hurricanes (Bruins vs. Hurricanes)</title>
+    <desc lang="en">Hockey: Bruins vs. Hurricanes (Bruins vs. Hurricanes)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 107">
+    <display-name>ESPN+ 107</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200105 -0500" stop="20261027230105 -0500" channel="ESPN+ 107">
+    <title lang="en">Hockey: Bruins vs. Hurricanes (Bruins vs. Hurricanes (ESP))</title>
+    <desc lang="en">Hockey: Bruins vs. Hurricanes (Bruins vs. Hurricanes (ESP))</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 108">
+    <display-name>ESPN+ 108</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200110 -0500" stop="20261027230110 -0500" channel="ESPN+ 108">
+    <title lang="en">NHL: BOS vs. CAR • NJ vs. DAL (BOS vs. CAR )</title>
+    <desc lang="en">NHL: BOS vs. CAR • NJ vs. DAL (BOS vs. CAR )</desc>
+  </programme>
+  <channel id="ESPN+ 109">
+    <display-name>ESPN+ 109</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200115 -0500" stop="20261027230115 -0500" channel="ESPN+ 109">
+    <title lang="en">NHL: BOS vs. CAR • WWE NXT (BOS vs. CAR )</title>
+    <desc lang="en">NHL: BOS vs. CAR • WWE NXT (BOS vs. CAR )</desc>
+  </programme>
+  <channel id="ESPN+ 110">
+    <display-name>ESPN+ 110</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200120 -0500" stop="20261027230120 -0500" channel="ESPN+ 110">
+    <title lang="en">NHL: BOS vs. CAR • NYI vs. NSH (BOS vs. CAR )</title>
+    <desc lang="en">NHL: BOS vs. CAR • NYI vs. NSH (BOS vs. CAR )</desc>
+  </programme>
+  <channel id="ESPN+ 111">
+    <display-name>ESPN+ 111</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200125 -0500" stop="20261027230125 -0500" channel="ESPN+ 111">
+    <title lang="en">NHL: BOS vs. CAR • NJ vs. DAL • NYI vs. NSH (BOS vs. CAR )</title>
+    <desc lang="en">NHL: BOS vs. CAR • NJ vs. DAL • NYI vs. NSH (BOS vs. CAR )</desc>
+  </programme>
+  <channel id="ESPN+ 112">
+    <display-name>ESPN+ 112</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027200130 -0500" stop="20261027230130 -0500" channel="ESPN+ 112">
+    <title lang="en">WWE: WWE NXT (WWE NXT)</title>
+    <desc lang="en">WWE: WWE NXT (WWE NXT)</desc>
+  </programme>
+  <channel id="ESPN+ 113">
+    <display-name>ESPN+ 113</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027203000 -0500" stop="20261027233000 -0500" channel="ESPN+ 113">
+    <title lang="en">Sitake Show Oct 27 8:30PM ET</title>
+    <desc lang="en">Sitake Show Oct 27 8:30PM ET</desc>
+  </programme>
+  <channel id="ESPN+ 114">
+    <display-name>ESPN+ 114</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 115">
+    <display-name>ESPN+ 115</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 116">
+    <display-name>ESPN+ 116</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027203015 -0500" stop="20261027233015 -0500" channel="ESPN+ 116">
+    <title lang="en">Tue_ 10/27 _ Futbol W Oct 27 8:30PM ET</title>
+    <desc lang="en">Tue_ 10/27 _ Futbol W Oct 27 8:30PM ET</desc>
+  </programme>
+  <channel id="ESPN+ 117">
+    <display-name>ESPN+ 117</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027203025 -0500" stop="20261027233025 -0500" channel="ESPN+ 117">
+    <title lang="en">Football: SEC Inside: Tennessee vs. South Carolina (SEC Inside: Tennessee vs. South Carolina)</title>
+    <desc lang="en">Football: SEC Inside: Tennessee vs. South Carolina (SEC Inside: Tennessee vs. South Carolina)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 118">
+    <display-name>ESPN+ 118</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027203030 -0500" stop="20261027233030 -0500" channel="ESPN+ 118">
+    <title lang="en">Football: Sooner Sports Pad (Sooner Sports Pad)</title>
+    <desc lang="en">Football: Sooner Sports Pad (Sooner Sports Pad)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 119">
+    <display-name>ESPN+ 119</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027203045 -0500" stop="20261027233045 -0500" channel="ESPN+ 119">
+    <title lang="en">NHL: LA vs. CHI • MIN vs. UTA (LA vs. CHI )</title>
+    <desc lang="en">NHL: LA vs. CHI • MIN vs. UTA (LA vs. CHI )</desc>
+  </programme>
+  <channel id="ESPN+ 120">
+    <display-name>ESPN+ 120</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 121">
+    <display-name>ESPN+ 121</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 122">
+    <display-name>ESPN+ 122</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 123">
+    <display-name>ESPN+ 123</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 124">
+    <display-name>ESPN+ 124</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 125">
+    <display-name>ESPN+ 125</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 126">
+    <display-name>ESPN+ 126</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 127">
+    <display-name>ESPN+ 127</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 128">
+    <display-name>ESPN+ 128</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 129">
+    <display-name>ESPN+ 129</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027220045 -0500" stop="20261028010045 -0500" channel="ESPN+ 129">
+    <title lang="en">NHL: VAN vs. ANA • OTT vs. VGK (VAN vs. ANA )</title>
+    <desc lang="en">NHL: VAN vs. ANA • OTT vs. VGK (VAN vs. ANA )</desc>
+  </programme>
+  <channel id="ESPN+ 130">
+    <display-name>ESPN+ 130</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027223000 -0500" stop="20261028013000 -0500" channel="ESPN+ 130">
+    <title lang="en">Hockey: Sabres vs. Sharks (Sabres vs. Sharks)</title>
+    <desc lang="en">Hockey: Sabres vs. Sharks (Sabres vs. Sharks)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 131">
+    <display-name>ESPN+ 131</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027223005 -0500" stop="20261028013005 -0500" channel="ESPN+ 131">
+    <title lang="en">NHL: VAN vs. ANA • OTT vs. VGK • BUF vs. SJ (VAN vs. ANA )</title>
+    <desc lang="en">NHL: VAN vs. ANA • OTT vs. VGK • BUF vs. SJ (VAN vs. ANA )</desc>
+  </programme>
+  <channel id="ESPN+ 132">
+    <display-name>ESPN+ 132</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027223010 -0500" stop="20261028013010 -0500" channel="ESPN+ 132">
+    <title lang="en">NHL: OTT vs. VGK • BUF vs. SJ (OTT vs. VGK )</title>
+    <desc lang="en">NHL: OTT vs. VGK • BUF vs. SJ (OTT vs. VGK )</desc>
+  </programme>
+  <channel id="ESPN+ 133">
+    <display-name>ESPN+ 133</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261027223015 -0500" stop="20261028013015 -0500" channel="ESPN+ 133">
+    <title lang="en">NHL: VAN vs. ANA • BUF vs. SJ (VAN vs. ANA )</title>
+    <desc lang="en">NHL: VAN vs. ANA • BUF vs. SJ (VAN vs. ANA )</desc>
+  </programme>
+  <channel id="ESPN+ 134">
+    <display-name>ESPN+ 134</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028000000 -0500" stop="20261028030000 -0500" channel="ESPN+ 134">
+    <title lang="en">Soccer: Fútbol Picante (Fútbol Picante)</title>
+    <desc lang="en">Soccer: Fútbol Picante (Fútbol Picante)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 135">
+    <display-name>ESPN+ 135</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028000005 -0500" stop="20261028030005 -0500" channel="ESPN+ 135">
+    <title lang="en">Baseball: Baseball Tonight (Baseball Tonight)</title>
+    <desc lang="en">Baseball: Baseball Tonight (Baseball Tonight)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 136">
+    <display-name>ESPN+ 136</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028010000 -0500" stop="20261028040000 -0500" channel="ESPN+ 136">
+    <title lang="en">Football: 49ers vs. Falcons (49ers vs. Falcons)</title>
+    <desc lang="en">Football: 49ers vs. Falcons (49ers vs. Falcons)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 137">
+    <display-name>ESPN+ 137</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028080000 -0500" stop="20261028110000 -0500" channel="ESPN+ 137">
+    <title lang="en">Football: Good Morning Football (Good Morning Football)</title>
+    <desc lang="en">Football: Good Morning Football (Good Morning Football)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 138">
+    <display-name>ESPN+ 138</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028080005 -0500" stop="20261028110005 -0500" channel="ESPN+ 138">
+    <title lang="en">Soccer: Es Así y Punto (Es Así y Punto)</title>
+    <desc lang="en">Soccer: Es Así y Punto (Es Así y Punto)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 139">
+    <display-name>ESPN+ 139</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 140">
+    <display-name>ESPN+ 140</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 141">
+    <display-name>ESPN+ 141</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 142">
+    <display-name>ESPN+ 142</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 143">
+    <display-name>ESPN+ 143</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 144">
+    <display-name>ESPN+ 144</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 145">
+    <display-name>ESPN+ 145</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 146">
+    <display-name>ESPN+ 146</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 147">
+    <display-name>ESPN+ 147</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 148">
+    <display-name>ESPN+ 148</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028120000 -0500" stop="20261028150000 -0500" channel="ESPN+ 148">
+    <title lang="en">Football: NFL Total Access (NFL Total Access)</title>
+    <desc lang="en">Football: NFL Total Access (NFL Total Access)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 149">
+    <display-name>ESPN+ 149</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 150">
+    <display-name>ESPN+ 150</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 151">
+    <display-name>ESPN+ 151</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 152">
+    <display-name>ESPN+ 152</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028130000 -0500" stop="20261028160000 -0500" channel="ESPN+ 152">
+    <title lang="en">Football: UTSA Weekly Press Conference (UTSA Weekly Press Conference)</title>
+    <desc lang="en">Football: UTSA Weekly Press Conference (UTSA Weekly Press Conference)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 153">
+    <display-name>ESPN+ 153</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028133000 -0500" stop="20261028163000 -0500" channel="ESPN+ 153">
+    <title lang="en">Soccer: FC Bayern vs. Real Madrid (ESP) (FC Bayern vs. Real Madrid (ESP))</title>
+    <desc lang="en">Soccer: FC Bayern vs. Real Madrid (ESP) (FC Bayern vs. Real Madrid (ESP))</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 154">
+    <display-name>ESPN+ 154</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 155">
+    <display-name>ESPN+ 155</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 156">
+    <display-name>ESPN+ 156</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 157">
+    <display-name>ESPN+ 157</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028140000 -0500" stop="20261028170000 -0500" channel="ESPN+ 157">
+    <title lang="en">Football: College Football Live (College Football Live)</title>
+    <desc lang="en">Football: College Football Live (College Football Live)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 158">
+    <display-name>ESPN+ 158</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 159">
+    <display-name>ESPN+ 159</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 160">
+    <display-name>ESPN+ 160</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028150000 -0500" stop="20261028180000 -0500" channel="ESPN+ 160">
+    <title lang="en">Basketball: NBA Today (NBA Today)</title>
+    <desc lang="en">Basketball: NBA Today (NBA Today)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 161">
+    <display-name>ESPN+ 161</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 162">
+    <display-name>ESPN+ 162</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 163">
+    <display-name>ESPN+ 163</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 164">
+    <display-name>ESPN+ 164</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028153000 -0500" stop="20261028183000 -0500" channel="ESPN+ 164">
+    <title lang="en">ACCNX: American Int`l vs. Boston College (American Int`l vs. Boston College)</title>
+    <desc lang="en">ACCNX: American Int`l vs. Boston College (American Int`l vs. Boston College)</desc>
+  </programme>
+  <channel id="ESPN+ 165">
+    <display-name>ESPN+ 165</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 166">
+    <display-name>ESPN+ 166</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 167">
+    <display-name>ESPN+ 167</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 168">
+    <display-name>ESPN+ 168</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028160000 -0500" stop="20261028190000 -0500" channel="ESPN+ 168">
+    <title lang="en">Football: NFL Live (NFL Live)</title>
+    <desc lang="en">Football: NFL Live (NFL Live)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 169">
+    <display-name>ESPN+ 169</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028160005 -0500" stop="20261028190005 -0500" channel="ESPN+ 169">
+    <title lang="en">Basketball: The Hoop Collective (The Hoop Collective)</title>
+    <desc lang="en">Basketball: The Hoop Collective (The Hoop Collective)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 170">
+    <display-name>ESPN+ 170</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028163000 -0500" stop="20261028193000 -0500" channel="ESPN+ 170">
+    <title lang="en">Basketball: UK Basketball: Countdown to Tip_Off (UK Basketball: Countdown to Tip_Off)</title>
+    <desc lang="en">Basketball: UK Basketball: Countdown to Tip_Off (UK Basketball: Countdown to Tip_Off)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 171">
+    <display-name>ESPN+ 171</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028170000 -0500" stop="20261028200000 -0500" channel="ESPN+ 171">
+    <title lang="en">Football: NFL Fantasy Live (NFL Fantasy Live)</title>
+    <desc lang="en">Football: NFL Fantasy Live (NFL Fantasy Live)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 172">
+    <display-name>ESPN+ 172</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028170005 -0500" stop="20261028200005 -0500" channel="ESPN+ 172">
+    <title lang="en">NCAA Football: ACC Network Football Podcast (ACC Network Football Podcast)</title>
+    <desc lang="en">NCAA Football: ACC Network Football Podcast (ACC Network Football Podcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 173">
+    <display-name>ESPN+ 173</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028170010 -0500" stop="20261028200010 -0500" channel="ESPN+ 173">
+    <title lang="en">Baseball: Baseball Tonight (Baseball Tonight)</title>
+    <desc lang="en">Baseball: Baseball Tonight (Baseball Tonight)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 174">
+    <display-name>ESPN+ 174</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 175">
+    <display-name>ESPN+ 175</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 176">
+    <display-name>ESPN+ 176</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028173000 -0500" stop="20261028203000 -0500" channel="ESPN+ 176">
+    <title lang="en">SEC Network +: The Paul Finebaum Show (The Paul Finebaum Show)</title>
+    <desc lang="en">SEC Network +: The Paul Finebaum Show (The Paul Finebaum Show)</desc>
+  </programme>
+  <channel id="ESPN+ 177">
+    <display-name>ESPN+ 177</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028180000 -0500" stop="20261028210000 -0500" channel="ESPN+ 177">
+    <title lang="en">Football: The Schrager Hour (The Schrager Hour)</title>
+    <desc lang="en">Football: The Schrager Hour (The Schrager Hour)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 178">
+    <display-name>ESPN+ 178</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028180005 -0500" stop="20261028210005 -0500" channel="ESPN+ 178">
+    <title lang="en">Basketball: NBA Tip_Off (NBA Tip_Off)</title>
+    <desc lang="en">Basketball: NBA Tip_Off (NBA Tip_Off)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 179">
+    <display-name>ESPN+ 179</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028180010 -0500" stop="20261028210010 -0500" channel="ESPN+ 179">
+    <title lang="en">Basketball: UCF vs. Kentucky (EXH) (UCF vs. Kentucky (EXH))</title>
+    <desc lang="en">Basketball: UCF vs. Kentucky (EXH) (UCF vs. Kentucky (EXH))</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 180">
+    <display-name>ESPN+ 180</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 181">
+    <display-name>ESPN+ 181</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 182">
+    <display-name>ESPN+ 182</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 183">
+    <display-name>ESPN+ 183</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 184">
+    <display-name>ESPN+ 184</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 185">
+    <display-name>ESPN+ 185</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 186">
+    <display-name>ESPN+ 186</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 187">
+    <display-name>ESPN+ 187</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028181500 -0500" stop="20261028211500 -0500" channel="ESPN+ 187">
+    <title lang="en">ESPN Unlimited: NBA Layup Lines (NBA Layup Lines)</title>
+    <desc lang="en">ESPN Unlimited: NBA Layup Lines (NBA Layup Lines)</desc>
+  </programme>
+  <channel id="ESPN+ 188">
+    <display-name>ESPN+ 188</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 189">
+    <display-name>ESPN+ 189</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 190">
+    <display-name>ESPN+ 190</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028190000 -0500" stop="20261028220000 -0500" channel="ESPN+ 190">
+    <title lang="en">Football: The Insiders (The Insiders)</title>
+    <desc lang="en">Football: The Insiders (The Insiders)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 191">
+    <display-name>ESPN+ 191</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028190005 -0500" stop="20261028220005 -0500" channel="ESPN+ 191">
+    <title lang="en">Football: The Difference: LSU Football (The Difference: LSU Football)</title>
+    <desc lang="en">Football: The Difference: LSU Football (The Difference: LSU Football)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 192">
+    <display-name>ESPN+ 192</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028190010 -0500" stop="20261028220010 -0500" channel="ESPN+ 192">
+    <title lang="en">Basketball: Mercyhurst vs. Louisville (Mercyhurst vs. Louisville)</title>
+    <desc lang="en">Basketball: Mercyhurst vs. Louisville (Mercyhurst vs. Louisville)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 193">
+    <display-name>ESPN+ 193</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028190015 -0500" stop="20261028220015 -0500" channel="ESPN+ 193">
+    <title lang="en">Basketball: NBA Courtside (NBA Courtside)</title>
+    <desc lang="en">Basketball: NBA Courtside (NBA Courtside)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 194">
+    <display-name>ESPN+ 194</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 195">
+    <display-name>ESPN+ 195</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028190025 -0500" stop="20261028220025 -0500" channel="ESPN+ 195">
+    <title lang="en">NCAA Men`s Basketball: UCF vs. Kentucky (EXH) • Navy vs. Mount St Marys (UCF vs. Kentucky (EXH) )</title>
+    <desc lang="en">NCAA Men`s Basketball: UCF vs. Kentucky (EXH) • Navy vs. Mount St Marys (UCF vs. Kentucky (EXH) )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 196">
+    <display-name>ESPN+ 196</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028190030 -0500" stop="20261028220030 -0500" channel="ESPN+ 196">
+    <title lang="en">NCAA Men`s Basketball: UCF vs. Kentucky (EXH) • Mercyhurst vs. Louisville • Navy vs. Mount St Marys (UCF vs. Kentucky (EXH) )</title>
+    <desc lang="en">NCAA Men`s Basketball: UCF vs. Kentucky (EXH) • Mercyhurst vs. Louisville • Navy vs. Mount St Marys (UCF vs. Kentucky (EXH) )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 197">
+    <display-name>ESPN+ 197</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028190035 -0500" stop="20261028220035 -0500" channel="ESPN+ 197">
+    <title lang="en">NCAA Men`s Basketball: Mercyhurst vs. Louisville • Navy vs. Mount St Marys (Mercyhurst vs. Louisville )</title>
+    <desc lang="en">NCAA Men`s Basketball: Mercyhurst vs. Louisville • Navy vs. Mount St Marys (Mercyhurst vs. Louisville )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 198">
+    <display-name>ESPN+ 198</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028190040 -0500" stop="20261028220040 -0500" channel="ESPN+ 198">
+    <title lang="en">NCAA Men`s Basketball: UCF vs. Kentucky (EXH) • Mercyhurst vs. Louisville (UCF vs. Kentucky (EXH) )</title>
+    <desc lang="en">NCAA Men`s Basketball: UCF vs. Kentucky (EXH) • Mercyhurst vs. Louisville (UCF vs. Kentucky (EXH) )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 199">
+    <display-name>ESPN+ 199</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 200">
+    <display-name>ESPN+ 200</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028190050 -0500" stop="20261028220050 -0500" channel="ESPN+ 200">
+    <title lang="en">ESPN Unlimited: Above the Rim: PHI vs. IND (Above the Rim: PHI vs. IND)</title>
+    <desc lang="en">ESPN Unlimited: Above the Rim: PHI vs. IND (Above the Rim: PHI vs. IND)</desc>
+  </programme>
+  <channel id="ESPN+ 201">
+    <display-name>ESPN+ 201</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 202">
+    <display-name>ESPN+ 202</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 203">
+    <display-name>ESPN+ 203</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 204">
+    <display-name>ESPN+ 204</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 205">
+    <display-name>ESPN+ 205</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 206">
+    <display-name>ESPN+ 206</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 207">
+    <display-name>ESPN+ 207</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028191200 -0500" stop="20261028221200 -0500" channel="ESPN+ 207">
+    <title lang="en">Basketball: 76ers vs. Pacers (76ers vs. Pacers)</title>
+    <desc lang="en">Basketball: 76ers vs. Pacers (76ers vs. Pacers)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 208">
+    <display-name>ESPN+ 208</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028191205 -0500" stop="20261028221205 -0500" channel="ESPN+ 208">
+    <title lang="en">Basketball: 76ers vs. Pacers (76ers vs. Pacers (ESP))</title>
+    <desc lang="en">Basketball: 76ers vs. Pacers (76ers vs. Pacers (ESP))</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 209">
+    <display-name>ESPN+ 209</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 210">
+    <display-name>ESPN+ 210</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028200000 -0500" stop="20261028230000 -0500" channel="ESPN+ 210">
+    <title lang="en">Football: Jax State vs. New Mexico St (Jax State vs. New Mexico St)</title>
+    <desc lang="en">Football: Jax State vs. New Mexico St (Jax State vs. New Mexico St)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 211">
+    <display-name>ESPN+ 211</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028200005 -0500" stop="20261028230005 -0500" channel="ESPN+ 211">
+    <title lang="en">Football: Packers vs. Lions (Packers vs. Lions)</title>
+    <desc lang="en">Football: Packers vs. Lions (Packers vs. Lions)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 212">
+    <display-name>ESPN+ 212</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028200010 -0500" stop="20261028230010 -0500" channel="ESPN+ 212">
+    <title lang="en">NCAA Football: PHI vs. IND • JXST vs. NMSU (PHI vs. IND )</title>
+    <desc lang="en">NCAA Football: PHI vs. IND • JXST vs. NMSU (PHI vs. IND )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 213">
+    <display-name>ESPN+ 213</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028200015 -0500" stop="20261028230015 -0500" channel="ESPN+ 213">
+    <title lang="en">Basketball: Memphis vs. Arkansas (EXH) (Memphis vs. Arkansas (EXH))</title>
+    <desc lang="en">Basketball: Memphis vs. Arkansas (EXH) (Memphis vs. Arkansas (EXH))</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 214">
+    <display-name>ESPN+ 214</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028200020 -0500" stop="20261028230020 -0500" channel="ESPN+ 214">
+    <title lang="en">NCAA Men`s Basketball: Mercyhurst vs. Louisville • Memphis vs. Arkansas (EXH) • Navy vs. Mount St Marys (Mercyhurst vs. Louisville )</title>
+    <desc lang="en">NCAA Men`s Basketball: Mercyhurst vs. Louisville • Memphis vs. Arkansas (EXH) • Navy vs. Mount St Marys (Mercyhurst vs. Louisville )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 215">
+    <display-name>ESPN+ 215</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028200025 -0500" stop="20261028230025 -0500" channel="ESPN+ 215">
+    <title lang="en">NCAA Men`s Basketball: Memphis vs. Arkansas (EXH) • Navy vs. Mount St Marys (Memphis vs. Arkansas (EXH) )</title>
+    <desc lang="en">NCAA Men`s Basketball: Memphis vs. Arkansas (EXH) • Navy vs. Mount St Marys (Memphis vs. Arkansas (EXH) )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 216">
+    <display-name>ESPN+ 216</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028200030 -0500" stop="20261028230030 -0500" channel="ESPN+ 216">
+    <title lang="en">NCAA Men`s Basketball: Mercyhurst vs. Louisville • Memphis vs. Arkansas (EXH) (Mercyhurst vs. Louisville )</title>
+    <desc lang="en">NCAA Men`s Basketball: Mercyhurst vs. Louisville • Memphis vs. Arkansas (EXH) (Mercyhurst vs. Louisville )</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 217">
+    <display-name>ESPN+ 217</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028200035 -0500" stop="20261028230035 -0500" channel="ESPN+ 217">
+    <title lang="en">Volleyball: Georgia vs. #14 Texas (Georgia vs. #14 Texas)</title>
+    <desc lang="en">Volleyball: Georgia vs. #14 Texas (Georgia vs. #14 Texas)</desc>
+  </programme>
+  <channel id="ESPN+ 218">
+    <display-name>ESPN+ 218</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028200040 -0500" stop="20261028230040 -0500" channel="ESPN+ 218">
+    <title lang="en">ESPN+: Long Beach St vs. Utah Valley (Long Beach St vs. Utah Valley)</title>
+    <desc lang="en">ESPN+: Long Beach St vs. Utah Valley (Long Beach St vs. Utah Valley)</desc>
+  </programme>
+  <channel id="ESPN+ 219">
+    <display-name>ESPN+ 219</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028200045 -0500" stop="20261028230045 -0500" channel="ESPN+ 219">
+    <title lang="en">ESPN+: UAB vs. Missouri St (UAB vs. Missouri St)</title>
+    <desc lang="en">ESPN+: UAB vs. Missouri St (UAB vs. Missouri St)</desc>
+  </programme>
+  <channel id="ESPN+ 220">
+    <display-name>ESPN+ 220</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028200050 -0500" stop="20261028230050 -0500" channel="ESPN+ 220">
+    <title lang="en">ESPN+: #20 Charlotte vs. Memphis (#20 Charlotte vs. Memphis)</title>
+    <desc lang="en">ESPN+: #20 Charlotte vs. Memphis (#20 Charlotte vs. Memphis)</desc>
+  </programme>
+  <channel id="ESPN+ 221">
+    <display-name>ESPN+ 221</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028203000 -0500" stop="20261028233000 -0500" channel="ESPN+ 221">
+    <title lang="en">Hockey: Devils vs. Avalanche (Avalanche Broadcast)</title>
+    <desc lang="en">Hockey: Devils vs. Avalanche (Avalanche Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 222">
+    <display-name>ESPN+ 222</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028203005 -0500" stop="20261028233005 -0500" channel="ESPN+ 222">
+    <title lang="en">Hockey: Devils vs. Avalanche (Devils Broadcast)</title>
+    <desc lang="en">Hockey: Devils vs. Avalanche (Devils Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 223">
+    <display-name>ESPN+ 223</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028203010 -0500" stop="20261028233010 -0500" channel="ESPN+ 223">
+    <title lang="en">Hockey: Flames vs. Oilers (National Broadcast)</title>
+    <desc lang="en">Hockey: Flames vs. Oilers (National Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 224">
+    <display-name>ESPN+ 224</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028203015 -0500" stop="20261028233015 -0500" channel="ESPN+ 224">
+    <title lang="en">NHL: CGY vs. EDM • NJ vs. COL (CGY vs. EDM )</title>
+    <desc lang="en">NHL: CGY vs. EDM • NJ vs. COL (CGY vs. EDM )</desc>
+  </programme>
+  <channel id="ESPN+ 225">
+    <display-name>ESPN+ 225</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028210000 -0500" stop="20261029000000 -0500" channel="ESPN+ 225">
+    <title lang="en">NHL: NJ vs. COL • Asia_Pacific Amateur Championship (NJ vs. COL )</title>
+    <desc lang="en">NHL: NJ vs. COL • Asia_Pacific Amateur Championship (NJ vs. COL )</desc>
+  </programme>
+  <channel id="ESPN+ 226">
+    <display-name>ESPN+ 226</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028210005 -0500" stop="20261029000005 -0500" channel="ESPN+ 226">
+    <title lang="en">Golf: Asia_Pacific Amateur Championship (Asia_Pacific Amateur Championship)</title>
+    <desc lang="en">Golf: Asia_Pacific Amateur Championship (Asia_Pacific Amateur Championship)</desc>
+  </programme>
+  <channel id="ESPN+ 227">
+    <display-name>ESPN+ 227</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028210010 -0500" stop="20261029000010 -0500" channel="ESPN+ 227">
+    <title lang="en">ESPN+: Seattle U vs. Portland (Seattle U vs. Portland)</title>
+    <desc lang="en">ESPN+: Seattle U vs. Portland (Seattle U vs. Portland)</desc>
+  </programme>
+  <channel id="ESPN+ 228">
+    <display-name>ESPN+ 228</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028210015 -0500" stop="20261029000015 -0500" channel="ESPN+ 228">
+    <title lang="en">ESPN+: Fullerton vs. UC Irvine (Fullerton vs. UC Irvine)</title>
+    <desc lang="en">ESPN+: Fullerton vs. UC Irvine (Fullerton vs. UC Irvine)</desc>
+  </programme>
+  <channel id="ESPN+ 229">
+    <display-name>ESPN+ 229</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028210025 -0500" stop="20261029000025 -0500" channel="ESPN+ 229">
+    <title lang="en">ESPN+: Saint Mary`s vs. Pacific (Saint Mary`s vs. Pacific)</title>
+    <desc lang="en">ESPN+: Saint Mary`s vs. Pacific (Saint Mary`s vs. Pacific)</desc>
+  </programme>
+  <channel id="ESPN+ 230">
+    <display-name>ESPN+ 230</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028210030 -0500" stop="20261029000030 -0500" channel="ESPN+ 230">
+    <title lang="en">ESPN+: Denver vs. LMU (Denver vs. LMU)</title>
+    <desc lang="en">ESPN+: Denver vs. LMU (Denver vs. LMU)</desc>
+  </programme>
+  <channel id="ESPN+ 231">
+    <display-name>ESPN+ 231</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028213000 -0500" stop="20261029003000 -0500" channel="ESPN+ 231">
+    <title lang="en">Hockey: Maple Leafs vs. Kraken (Kraken Broadcast)</title>
+    <desc lang="en">Hockey: Maple Leafs vs. Kraken (Kraken Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 232">
+    <display-name>ESPN+ 232</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028213005 -0500" stop="20261029003005 -0500" channel="ESPN+ 232">
+    <title lang="en">Hockey: Maple Leafs vs. Kraken (Maple Leafs Broadcast)</title>
+    <desc lang="en">Hockey: Maple Leafs vs. Kraken (Maple Leafs Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 233">
+    <display-name>ESPN+ 233</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028213010 -0500" stop="20261029003010 -0500" channel="ESPN+ 233">
+    <title lang="en">NHL: CGY vs. EDM • NJ vs. COL • TOR vs. SEA (CGY vs. EDM )</title>
+    <desc lang="en">NHL: CGY vs. EDM • NJ vs. COL • TOR vs. SEA (CGY vs. EDM )</desc>
+  </programme>
+  <channel id="ESPN+ 234">
+    <display-name>ESPN+ 234</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028213015 -0500" stop="20261029003015 -0500" channel="ESPN+ 234">
+    <title lang="en">NHL: NJ vs. COL • TOR vs. SEA (NJ vs. COL )</title>
+    <desc lang="en">NHL: NJ vs. COL • TOR vs. SEA (NJ vs. COL )</desc>
+  </programme>
+  <channel id="ESPN+ 235">
+    <display-name>ESPN+ 235</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028213020 -0500" stop="20261029003020 -0500" channel="ESPN+ 235">
+    <title lang="en">NHL: CGY vs. EDM • TOR vs. SEA (CGY vs. EDM )</title>
+    <desc lang="en">NHL: CGY vs. EDM • TOR vs. SEA (CGY vs. EDM )</desc>
+  </programme>
+  <channel id="ESPN+ 236">
+    <display-name>ESPN+ 236</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028213025 -0500" stop="20261029003025 -0500" channel="ESPN+ 236">
+    <title lang="en">ESPN Unlimited: Above the Rim: OKC vs. DAL (Above the Rim: OKC vs. DAL)</title>
+    <desc lang="en">ESPN Unlimited: Above the Rim: OKC vs. DAL (Above the Rim: OKC vs. DAL)</desc>
+  </programme>
+  <channel id="ESPN+ 237">
+    <display-name>ESPN+ 237</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028213500 -0500" stop="20261029003500 -0500" channel="ESPN+ 237">
+    <title lang="en">Basketball: Thunder vs. Mavericks (Thunder vs. Mavericks)</title>
+    <desc lang="en">Basketball: Thunder vs. Mavericks (Thunder vs. Mavericks)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 238">
+    <display-name>ESPN+ 238</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028213505 -0500" stop="20261029003505 -0500" channel="ESPN+ 238">
+    <title lang="en">Basketball: Thunder vs. Mavericks (Thunder vs. Mavericks (ESP))</title>
+    <desc lang="en">Basketball: Thunder vs. Mavericks (Thunder vs. Mavericks (ESP))</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 239">
+    <display-name>ESPN+ 239</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028213510 -0500" stop="20261029003510 -0500" channel="ESPN+ 239">
+    <title lang="en">NHL: OKC vs. DAL • NJ vs. COL • Asia_Pacific Amateur Championship (OKC vs. DAL )</title>
+    <desc lang="en">NHL: OKC vs. DAL • NJ vs. COL • Asia_Pacific Amateur Championship (OKC vs. DAL )</desc>
+  </programme>
+  <channel id="ESPN+ 240">
+    <display-name>ESPN+ 240</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028213515 -0500" stop="20261029003515 -0500" channel="ESPN+ 240">
+    <title lang="en">NHL: OKC vs. DAL • NJ vs. COL (OKC vs. DAL )</title>
+    <desc lang="en">NHL: OKC vs. DAL • NJ vs. COL (OKC vs. DAL )</desc>
+  </programme>
+  <channel id="ESPN+ 241">
+    <display-name>ESPN+ 241</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028220000 -0500" stop="20261029010000 -0500" channel="ESPN+ 241">
+    <title lang="en">Volleyball: #18 Stanford vs. California (#18 Stanford vs. California)</title>
+    <desc lang="en">Volleyball: #18 Stanford vs. California (#18 Stanford vs. California)</desc>
+  </programme>
+  <channel id="ESPN+ 242">
+    <display-name>ESPN+ 242</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028220005 -0500" stop="20261029010005 -0500" channel="ESPN+ 242">
+    <title lang="en">ESPN+: UC San Diego vs. Bakersfield (UC San Diego vs. Bakersfield)</title>
+    <desc lang="en">ESPN+: UC San Diego vs. Bakersfield (UC San Diego vs. Bakersfield)</desc>
+  </programme>
+  <channel id="ESPN+ 243">
+    <display-name>ESPN+ 243</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261028220010 -0500" stop="20261029010010 -0500" channel="ESPN+ 243">
+    <title lang="en">ESPN+: Santa Barbara vs. CSU Northridge (Santa Barbara vs. CSU Northridge)</title>
+    <desc lang="en">ESPN+: Santa Barbara vs. CSU Northridge (Santa Barbara vs. CSU Northridge)</desc>
+  </programme>
+  <channel id="ESPN+ 244">
+    <display-name>ESPN+ 244</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029000000 -0500" stop="20261029030000 -0500" channel="ESPN+ 244">
+    <title lang="en">Baseball: Baseball Tonight (Baseball Tonight)</title>
+    <desc lang="en">Baseball: Baseball Tonight (Baseball Tonight)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 245">
+    <display-name>ESPN+ 245</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029000500 -0500" stop="20261029030500 -0500" channel="ESPN+ 245">
+    <title lang="en">Basketball: Inside the NBA (Inside the NBA)</title>
+    <desc lang="en">Basketball: Inside the NBA (Inside the NBA)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 246">
+    <display-name>ESPN+ 246</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029010000 -0500" stop="20261029040000 -0500" channel="ESPN+ 246">
+    <title lang="en">Football: Cowboys vs. Eagles (Cowboys vs. Eagles)</title>
+    <desc lang="en">Football: Cowboys vs. Eagles (Cowboys vs. Eagles)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 247">
+    <display-name>ESPN+ 247</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029040000 -0500" stop="20261029070000 -0500" channel="ESPN+ 247">
+    <title lang="en">NFL Network: The Insiders (The Insiders)</title>
+    <desc lang="en">NFL Network: The Insiders (The Insiders)</desc>
+  </programme>
+  <channel id="ESPN+ 248">
+    <display-name>ESPN+ 248</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029050000 -0500" stop="20261029080000 -0500" channel="ESPN+ 248">
+    <title lang="en">NFL Network: NFL Fantasy Live (NFL Fantasy Live)</title>
+    <desc lang="en">NFL Network: NFL Fantasy Live (NFL Fantasy Live)</desc>
+  </programme>
+  <channel id="ESPN+ 249">
+    <display-name>ESPN+ 249</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029060000 -0500" stop="20261029090000 -0500" channel="ESPN+ 249">
+    <title lang="en">NFL Network: The Insiders (The Insiders)</title>
+    <desc lang="en">NFL Network: The Insiders (The Insiders)</desc>
+  </programme>
+  <channel id="ESPN+ 250">
+    <display-name>ESPN+ 250</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029070000 -0500" stop="20261029100000 -0500" channel="ESPN+ 250">
+    <title lang="en">NFL Network: NFL Fantasy Live (NFL Fantasy Live)</title>
+    <desc lang="en">NFL Network: NFL Fantasy Live (NFL Fantasy Live)</desc>
+  </programme>
+  <channel id="ESPN+ 251">
+    <display-name>ESPN+ 251</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029080000 -0500" stop="20261029110000 -0500" channel="ESPN+ 251">
+    <title lang="en">Football: Good Morning Football (Good Morning Football)</title>
+    <desc lang="en">Football: Good Morning Football (Good Morning Football)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 252">
+    <display-name>ESPN+ 252</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029080005 -0500" stop="20261029110005 -0500" channel="ESPN+ 252">
+    <title lang="en">Baseball: ESPN Beisbol (ESPN Beisbol)</title>
+    <desc lang="en">Baseball: ESPN Beisbol (ESPN Beisbol)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 253">
+    <display-name>ESPN+ 253</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029100000 -0500" stop="20261029130000 -0500" channel="ESPN+ 253">
+    <title lang="en">NFL Network: Good Morning Football (Good Morning Football)</title>
+    <desc lang="en">NFL Network: Good Morning Football (Good Morning Football)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 254">
+    <display-name>ESPN+ 254</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <channel id="ESPN+ 255">
+    <display-name>ESPN+ 255</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029110000 -0500" stop="20261029140000 -0500" channel="ESPN+ 255">
+    <title lang="en">Football: Hawk Talk with Lance Leipold (Hawk Talk with Lance Leipold)</title>
+    <desc lang="en">Football: Hawk Talk with Lance Leipold (Hawk Talk with Lance Leipold)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 256">
+    <display-name>ESPN+ 256</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029110005 -0500" stop="20261029140005 -0500" channel="ESPN+ 256">
+    <title lang="en">Spanish LALIGA: 10/29 _ LALIGA Show (10/29 _ LALIGA Show)</title>
+    <desc lang="en">Spanish LALIGA: 10/29 _ LALIGA Show (10/29 _ LALIGA Show)</desc>
+  </programme>
+  <channel id="ESPN+ 257">
+    <display-name>ESPN+ 257</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029120000 -0500" stop="20261029150000 -0500" channel="ESPN+ 257">
+    <title lang="en">Football: NFL Total Access (NFL Total Access)</title>
+    <desc lang="en">Football: NFL Total Access (NFL Total Access)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 258">
+    <display-name>ESPN+ 258</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029120005 -0500" stop="20261029150005 -0500" channel="ESPN+ 258">
+    <title lang="en">ESPN+: N Arizona vs. Idaho St (N Arizona vs. Idaho St)</title>
+    <desc lang="en">ESPN+: N Arizona vs. Idaho St (N Arizona vs. Idaho St)</desc>
+  </programme>
+  <channel id="ESPN+ 259">
+    <display-name>ESPN+ 259</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029120010 -0500" stop="20261029150010 -0500" channel="ESPN+ 259">
+    <title lang="en">ESPN+: The Pat McAfee Show (The Pat McAfee Show)</title>
+    <desc lang="en">ESPN+: The Pat McAfee Show (The Pat McAfee Show)</desc>
+  </programme>
+  <channel id="ESPN+ 260">
+    <display-name>ESPN+ 260</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029120015 -0500" stop="20261029150015 -0500" channel="ESPN+ 260">
+    <title lang="en">ESPN+: 10/29 _ The Rich Eisen Show (10/29 _ The Rich Eisen Show)</title>
+    <desc lang="en">ESPN+: 10/29 _ The Rich Eisen Show (10/29 _ The Rich Eisen Show)</desc>
+  </programme>
+  <channel id="ESPN+ 261">
+    <display-name>ESPN+ 261</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029134500 -0500" stop="20261029164500 -0500" channel="ESPN+ 261">
+    <title lang="en">ESPN+: BK Hacken FF vs. Paris FC (ESP) (BK Hacken FF vs. Paris FC (ESP))</title>
+    <desc lang="en">ESPN+: BK Hacken FF vs. Paris FC (ESP) (BK Hacken FF vs. Paris FC (ESP))</desc>
+  </programme>
+  <channel id="ESPN+ 262">
+    <display-name>ESPN+ 262</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029135000 -0500" stop="20261029165000 -0500" channel="ESPN+ 262">
+    <title lang="en">ESPN+: Calatayud vs. Osasuna (Calatayud vs. Osasuna)</title>
+    <desc lang="en">ESPN+: Calatayud vs. Osasuna (Calatayud vs. Osasuna)</desc>
+  </programme>
+  <channel id="ESPN+ 263">
+    <display-name>ESPN+ 263</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029135005 -0500" stop="20261029165005 -0500" channel="ESPN+ 263">
+    <title lang="en">ESPN+: Lebrijana vs. Getafe (Lebrijana vs. Getafe)</title>
+    <desc lang="en">ESPN+: Lebrijana vs. Getafe (Lebrijana vs. Getafe)</desc>
+  </programme>
+  <channel id="ESPN+ 264">
+    <display-name>ESPN+ 264</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029140000 -0500" stop="20261029170000 -0500" channel="ESPN+ 264">
+    <title lang="en">Football: College Football Live (College Football Live)</title>
+    <desc lang="en">Football: College Football Live (College Football Live)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 265">
+    <display-name>ESPN+ 265</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029140005 -0500" stop="20261029170005 -0500" channel="ESPN+ 265">
+    <title lang="en">ESPN+: Flames Central (Flames Central)</title>
+    <desc lang="en">ESPN+: Flames Central (Flames Central)</desc>
+  </programme>
+  <channel id="ESPN+ 266">
+    <display-name>ESPN+ 266</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029150000 -0500" stop="20261029180000 -0500" channel="ESPN+ 266">
+    <title lang="en">Football: Coaches Corner (Coaches Corner)</title>
+    <desc lang="en">Football: Coaches Corner (Coaches Corner)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 267">
+    <display-name>ESPN+ 267</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029150005 -0500" stop="20261029180005 -0500" channel="ESPN+ 267">
+    <title lang="en">Basketball: NBA Today (NBA Today)</title>
+    <desc lang="en">Basketball: NBA Today (NBA Today)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 268">
+    <display-name>ESPN+ 268</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029150010 -0500" stop="20261029180010 -0500" channel="ESPN+ 268">
+    <title lang="en">Field Hockey: Ball State vs. Bellarmine (Ball State vs. Bellarmine)</title>
+    <desc lang="en">Field Hockey: Ball State vs. Bellarmine (Ball State vs. Bellarmine)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 269">
+    <display-name>ESPN+ 269</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029150015 -0500" stop="20261029180015 -0500" channel="ESPN+ 269">
+    <title lang="en">Field Hockey: Vermont vs. Maine (Vermont vs. Maine)</title>
+    <desc lang="en">Field Hockey: Vermont vs. Maine (Vermont vs. Maine)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 270">
+    <display-name>ESPN+ 270</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029150020 -0500" stop="20261029180020 -0500" channel="ESPN+ 270">
+    <title lang="en">Jai Alai: Fireballs vs. Devils (Fireballs vs. Devils)</title>
+    <desc lang="en">Jai Alai: Fireballs vs. Devils (Fireballs vs. Devils)</desc>
+  </programme>
+  <channel id="ESPN+ 271">
+    <display-name>ESPN+ 271</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029150025 -0500" stop="20261029180025 -0500" channel="ESPN+ 271">
+    <title lang="en">ESPN+: Toledo vs. Ohio (Toledo vs. Ohio)</title>
+    <desc lang="en">ESPN+: Toledo vs. Ohio (Toledo vs. Ohio)</desc>
+  </programme>
+  <channel id="ESPN+ 272">
+    <display-name>ESPN+ 272</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029150030 -0500" stop="20261029180030 -0500" channel="ESPN+ 272">
+    <title lang="en">ESPN+: W Michigan vs. UMass (W Michigan vs. UMass)</title>
+    <desc lang="en">ESPN+: W Michigan vs. UMass (W Michigan vs. UMass)</desc>
+  </programme>
+  <channel id="ESPN+ 273">
+    <display-name>ESPN+ 273</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029150035 -0500" stop="20261029180035 -0500" channel="ESPN+ 273">
+    <title lang="en">ESPN+: So Indiana vs. E Illinois (So Indiana vs. E Illinois)</title>
+    <desc lang="en">ESPN+: So Indiana vs. E Illinois (So Indiana vs. E Illinois)</desc>
+  </programme>
+  <channel id="ESPN+ 274">
+    <display-name>ESPN+ 274</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029155000 -0500" stop="20261029185000 -0500" channel="ESPN+ 274">
+    <title lang="en">ESPN+: Auriense vs. Deportivo A Coruña (Auriense vs. Deportivo A Coruña)</title>
+    <desc lang="en">ESPN+: Auriense vs. Deportivo A Coruña (Auriense vs. Deportivo A Coruña)</desc>
+  </programme>
+  <channel id="ESPN+ 275">
+    <display-name>ESPN+ 275</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029155005 -0500" stop="20261029185005 -0500" channel="ESPN+ 275">
+    <title lang="en">ESPN+: Prat vs. Ath. Club (Prat vs. Ath. Club)</title>
+    <desc lang="en">ESPN+: Prat vs. Ath. Club (Prat vs. Ath. Club)</desc>
+  </programme>
+  <channel id="ESPN+ 276">
+    <display-name>ESPN+ 276</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029155010 -0500" stop="20261029185010 -0500" channel="ESPN+ 276">
+    <title lang="en">ESPN+: Ribadesella vs. Racing (Ribadesella vs. Racing)</title>
+    <desc lang="en">ESPN+: Ribadesella vs. Racing (Ribadesella vs. Racing)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 277">
+    <display-name>ESPN+ 277</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029155015 -0500" stop="20261029185015 -0500" channel="ESPN+ 277">
+    <title lang="en">ESPN+: Sporting Hortaleza vs. Sevilla (Sporting Hortaleza vs. Sevilla)</title>
+    <desc lang="en">ESPN+: Sporting Hortaleza vs. Sevilla (Sporting Hortaleza vs. Sevilla)</desc>
+  </programme>
+  <channel id="ESPN+ 278">
+    <display-name>ESPN+ 278</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029160000 -0500" stop="20261029190000 -0500" channel="ESPN+ 278">
+    <title lang="en">Football: NFL Live (NFL Live)</title>
+    <desc lang="en">Football: NFL Live (NFL Live)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 279">
+    <display-name>ESPN+ 279</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029160005 -0500" stop="20261029190005 -0500" channel="ESPN+ 279">
+    <title lang="en">Football: The Mina Kimes Show ft. Lenny (The Mina Kimes Show ft. Lenny)</title>
+    <desc lang="en">Football: The Mina Kimes Show ft. Lenny (The Mina Kimes Show ft. Lenny)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 280">
+    <display-name>ESPN+ 280</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029160010 -0500" stop="20261029190010 -0500" channel="ESPN+ 280">
+    <title lang="en">ESPN+: SIUE vs. W Illinois (SIUE vs. W Illinois)</title>
+    <desc lang="en">ESPN+: SIUE vs. W Illinois (SIUE vs. W Illinois)</desc>
+  </programme>
+  <channel id="ESPN+ 281">
+    <display-name>ESPN+ 281</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029160015 -0500" stop="20261029190015 -0500" channel="ESPN+ 281">
+    <title lang="en">ESPN+: Idaho vs. Portland St (Idaho vs. Portland St)</title>
+    <desc lang="en">ESPN+: Idaho vs. Portland St (Idaho vs. Portland St)</desc>
+  </programme>
+  <channel id="ESPN+ 282">
+    <display-name>ESPN+ 282</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029160020 -0500" stop="20261029190020 -0500" channel="ESPN+ 282">
+    <title lang="en">ESPN+: PSG vs. Man City (ESP) (PSG vs. Man City (ESP))</title>
+    <desc lang="en">ESPN+: PSG vs. Man City (ESP) (PSG vs. Man City (ESP))</desc>
+  </programme>
+  <channel id="ESPN+ 283">
+    <display-name>ESPN+ 283</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029170000 -0500" stop="20261029200000 -0500" channel="ESPN+ 283">
+    <title lang="en">Football: NFL Fantasy Live (NFL Fantasy Live)</title>
+    <desc lang="en">Football: NFL Fantasy Live (NFL Fantasy Live)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 284">
+    <display-name>ESPN+ 284</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029170005 -0500" stop="20261029200005 -0500" channel="ESPN+ 284">
+    <title lang="en">Volleyball: E Illinois vs. Morehead St (E Illinois vs. Morehead St)</title>
+    <desc lang="en">Volleyball: E Illinois vs. Morehead St (E Illinois vs. Morehead St)</desc>
+  </programme>
+  <channel id="ESPN+ 285">
+    <display-name>ESPN+ 285</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029170010 -0500" stop="20261029200010 -0500" channel="ESPN+ 285">
+    <title lang="en">Big 12 Conference: Inside OSU Athletics (Inside OSU Athletics)</title>
+    <desc lang="en">Big 12 Conference: Inside OSU Athletics (Inside OSU Athletics)</desc>
+  </programme>
+  <channel id="ESPN+ 286">
+    <display-name>ESPN+ 286</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029170015 -0500" stop="20261029200015 -0500" channel="ESPN+ 286">
+    <title lang="en">ESPN+: 10/29 _ ESPN FC (10/29 _ ESPN FC)</title>
+    <desc lang="en">ESPN+: 10/29 _ ESPN FC (10/29 _ ESPN FC)</desc>
+  </programme>
+  <channel id="ESPN+ 287">
+    <display-name>ESPN+ 287</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029170020 -0500" stop="20261029200020 -0500" channel="ESPN+ 287">
+    <title lang="en">ESPN+: E Washington vs. Montana (E Washington vs. Montana)</title>
+    <desc lang="en">ESPN+: E Washington vs. Montana (E Washington vs. Montana)</desc>
+  </programme>
+  <channel id="ESPN+ 288">
+    <display-name>ESPN+ 288</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180000 -0500" stop="20261029210000 -0500" channel="ESPN+ 288">
+    <title lang="en">Football: This is Football (This is Football)</title>
+    <desc lang="en">Football: This is Football (This is Football)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 289">
+    <display-name>ESPN+ 289</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180005 -0500" stop="20261029210005 -0500" channel="ESPN+ 289">
+    <title lang="en">Volleyball: UT Arlington vs. E Kentucky (UT Arlington vs. E Kentucky)</title>
+    <desc lang="en">Volleyball: UT Arlington vs. E Kentucky (UT Arlington vs. E Kentucky)</desc>
+  </programme>
+  <channel id="ESPN+ 290">
+    <display-name>ESPN+ 290</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180010 -0500" stop="20261029210010 -0500" channel="ESPN+ 290">
+    <title lang="en">Volleyball: Austin Peay vs. West Georgia (Austin Peay vs. West Georgia)</title>
+    <desc lang="en">Volleyball: Austin Peay vs. West Georgia (Austin Peay vs. West Georgia)</desc>
+  </programme>
+  <channel id="ESPN+ 291">
+    <display-name>ESPN+ 291</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180015 -0500" stop="20261029210015 -0500" channel="ESPN+ 291">
+    <title lang="en">Volleyball: GA Southern vs. Marshall (GA Southern vs. Marshall)</title>
+    <desc lang="en">Volleyball: GA Southern vs. Marshall (GA Southern vs. Marshall)</desc>
+  </programme>
+  <channel id="ESPN+ 292">
+    <display-name>ESPN+ 292</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180020 -0500" stop="20261029210020 -0500" channel="ESPN+ 292">
+    <title lang="en">Volleyball: App State vs. Georgia St (App State vs. Georgia St)</title>
+    <desc lang="en">Volleyball: App State vs. Georgia St (App State vs. Georgia St)</desc>
+  </programme>
+  <channel id="ESPN+ 293">
+    <display-name>ESPN+ 293</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180025 -0500" stop="20261029210025 -0500" channel="ESPN+ 293">
+    <title lang="en">NFL Network: NFL Gameday Kickoff (NFL Gameday Kickoff)</title>
+    <desc lang="en">NFL Network: NFL Gameday Kickoff (NFL Gameday Kickoff)</desc>
+  </programme>
+  <channel id="ESPN+ 294">
+    <display-name>ESPN+ 294</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180030 -0500" stop="20261029210030 -0500" channel="ESPN+ 294">
+    <title lang="en">ACCNX: #17 Notre Dame vs. California (#17 Notre Dame vs. California)</title>
+    <desc lang="en">ACCNX: #17 Notre Dame vs. California (#17 Notre Dame vs. California)</desc>
+  </programme>
+  <channel id="ESPN+ 295">
+    <display-name>ESPN+ 295</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180035 -0500" stop="20261029210035 -0500" channel="ESPN+ 295">
+    <title lang="en">ESPN+: Tenn Tech vs. W Carolina (Tenn Tech vs. W Carolina)</title>
+    <desc lang="en">ESPN+: Tenn Tech vs. W Carolina (Tenn Tech vs. W Carolina)</desc>
+  </programme>
+  <channel id="ESPN+ 296">
+    <display-name>ESPN+ 296</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180040 -0500" stop="20261029210040 -0500" channel="ESPN+ 296">
+    <title lang="en">ESPN+: E Kentucky vs. West Georgia (E Kentucky vs. West Georgia)</title>
+    <desc lang="en">ESPN+: E Kentucky vs. West Georgia (E Kentucky vs. West Georgia)</desc>
+  </programme>
+  <channel id="ESPN+ 297">
+    <display-name>ESPN+ 297</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180045 -0500" stop="20261029210045 -0500" channel="ESPN+ 297">
+    <title lang="en">ESPN+: VMI vs. Wofford (VMI vs. Wofford)</title>
+    <desc lang="en">ESPN+: VMI vs. Wofford (VMI vs. Wofford)</desc>
+  </programme>
+  <channel id="ESPN+ 298">
+    <display-name>ESPN+ 298</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180050 -0500" stop="20261029210050 -0500" channel="ESPN+ 298">
+    <title lang="en">ESPN+: ETSU vs. Chattanooga (ETSU vs. Chattanooga)</title>
+    <desc lang="en">ESPN+: ETSU vs. Chattanooga (ETSU vs. Chattanooga)</desc>
+  </programme>
+  <channel id="ESPN+ 299">
+    <display-name>ESPN+ 299</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029180055 -0500" stop="20261029210055 -0500" channel="ESPN+ 299">
+    <title lang="en">ESPN+: Kent State vs. Buffalo (Kent State vs. Buffalo)</title>
+    <desc lang="en">ESPN+: Kent State vs. Buffalo (Kent State vs. Buffalo)</desc>
+  </programme>
+  <channel id="ESPN+ 300">
+    <display-name>ESPN+ 300</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029183000 -0500" stop="20261029213000 -0500" channel="ESPN+ 300">
+    <title lang="en">Hockey: Blue Jackets vs. Hurricanes (Hurricanes Broadcast)</title>
+    <desc lang="en">Hockey: Blue Jackets vs. Hurricanes (Hurricanes Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 301">
+    <display-name>ESPN+ 301</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029183005 -0500" stop="20261029213005 -0500" channel="ESPN+ 301">
+    <title lang="en">Hockey: Blue Jackets vs. Hurricanes (Blue Jackets Broadcast)</title>
+    <desc lang="en">Hockey: Blue Jackets vs. Hurricanes (Blue Jackets Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 302">
+    <display-name>ESPN+ 302</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029183010 -0500" stop="20261029213010 -0500" channel="ESPN+ 302">
+    <title lang="en">Hockey: Jets vs. Lightning (Lightning Broadcast)</title>
+    <desc lang="en">Hockey: Jets vs. Lightning (Lightning Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 303">
+    <display-name>ESPN+ 303</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029183015 -0500" stop="20261029213015 -0500" channel="ESPN+ 303">
+    <title lang="en">Hockey: Jets vs. Lightning (Jets Broadcast)</title>
+    <desc lang="en">Hockey: Jets vs. Lightning (Jets Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 304">
+    <display-name>ESPN+ 304</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029183020 -0500" stop="20261029213020 -0500" channel="ESPN+ 304">
+    <title lang="en">Hockey: Mammoth vs. Penguins (Penguins Broadcast)</title>
+    <desc lang="en">Hockey: Mammoth vs. Penguins (Penguins Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 305">
+    <display-name>ESPN+ 305</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029183025 -0500" stop="20261029213025 -0500" channel="ESPN+ 305">
+    <title lang="en">Hockey: Mammoth vs. Penguins (Mammoth Broadcast)</title>
+    <desc lang="en">Hockey: Mammoth vs. Penguins (Mammoth Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 306">
+    <display-name>ESPN+ 306</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029183030 -0500" stop="20261029213030 -0500" channel="ESPN+ 306">
+    <title lang="en">NHL: WPG vs. TB • UTA vs. PIT (WPG vs. TB )</title>
+    <desc lang="en">NHL: WPG vs. TB • UTA vs. PIT (WPG vs. TB )</desc>
+  </programme>
+  <channel id="ESPN+ 307">
+    <display-name>ESPN+ 307</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029183035 -0500" stop="20261029213035 -0500" channel="ESPN+ 307">
+    <title lang="en">NHL: WPG vs. TB • CBJ vs. CAR • UTA vs. PIT (WPG vs. TB )</title>
+    <desc lang="en">NHL: WPG vs. TB • CBJ vs. CAR • UTA vs. PIT (WPG vs. TB )</desc>
+  </programme>
+  <channel id="ESPN+ 308">
+    <display-name>ESPN+ 308</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029183040 -0500" stop="20261029213040 -0500" channel="ESPN+ 308">
+    <title lang="en">NHL: CBJ vs. CAR • UTA vs. PIT (CBJ vs. CAR )</title>
+    <desc lang="en">NHL: CBJ vs. CAR • UTA vs. PIT (CBJ vs. CAR )</desc>
+  </programme>
+  <channel id="ESPN+ 309">
+    <display-name>ESPN+ 309</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029183045 -0500" stop="20261029213045 -0500" channel="ESPN+ 309">
+    <title lang="en">NHL: WPG vs. TB • CBJ vs. CAR (WPG vs. TB )</title>
+    <desc lang="en">NHL: WPG vs. TB • CBJ vs. CAR (WPG vs. TB )</desc>
+  </programme>
+  <channel id="ESPN+ 310">
+    <display-name>ESPN+ 310</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029183050 -0500" stop="20261029213050 -0500" channel="ESPN+ 310">
+    <title lang="en">ESPN+: E Michigan vs. Akron (E Michigan vs. Akron)</title>
+    <desc lang="en">ESPN+: E Michigan vs. Akron (E Michigan vs. Akron)</desc>
+  </programme>
+  <channel id="ESPN+ 311">
+    <display-name>ESPN+ 311</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029190000 -0500" stop="20261029220000 -0500" channel="ESPN+ 311">
+    <title lang="en">NCAA Football: SC State vs. Morgan St (SC State vs. Morgan St)</title>
+    <desc lang="en">NCAA Football: SC State vs. Morgan St (SC State vs. Morgan St)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 312">
+    <display-name>ESPN+ 312</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029190005 -0500" stop="20261029220005 -0500" channel="ESPN+ 312">
+    <title lang="en">NCAA Football: SC State vs. Morgan St (SC State vs. Morgan St (ESP))</title>
+    <desc lang="en">NCAA Football: SC State vs. Morgan St (SC State vs. Morgan St (ESP))</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 313">
+    <display-name>ESPN+ 313</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029190010 -0500" stop="20261029220010 -0500" channel="ESPN+ 313">
+    <title lang="en">NCAA Football: College Football Countdown (College Football Countdown)</title>
+    <desc lang="en">NCAA Football: College Football Countdown (College Football Countdown)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 314">
+    <display-name>ESPN+ 314</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029190015 -0500" stop="20261029220015 -0500" channel="ESPN+ 314">
+    <title lang="en">Basketball: Tenn Wesleyan vs. Tenn Tech (Tenn Wesleyan vs. Tenn Tech)</title>
+    <desc lang="en">Basketball: Tenn Wesleyan vs. Tenn Tech (Tenn Wesleyan vs. Tenn Tech)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 315">
+    <display-name>ESPN+ 315</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029190025 -0500" stop="20261029220025 -0500" channel="ESPN+ 315">
+    <title lang="en">Hockey: UMass vs. Harvard (UMass vs. Harvard)</title>
+    <desc lang="en">Hockey: UMass vs. Harvard (UMass vs. Harvard)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 316">
+    <display-name>ESPN+ 316</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029193115 -0500" stop="20261029223115 -0500" channel="ESPN+ 316">
+    <title lang="en">Hockey: Bruins vs. Blues (Blues Broadcast)</title>
+    <desc lang="en">Hockey: Bruins vs. Blues (Blues Broadcast)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="ESPN+ 317">
+    <display-name>ESPN+ 317</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029210020 -0500" stop="20261030000020 -0500" channel="ESPN+ 317">
+    <title lang="en">Volleyball: Pepperdine vs. Seattle U (Pepperdine vs. Seattle U)</title>
+    <desc lang="en">Volleyball: Pepperdine vs. Seattle U (Pepperdine vs. Seattle U)</desc>
+  </programme>
+  <channel id="ESPN+ 318">
+    <display-name>ESPN+ 318</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029210025 -0500" stop="20261030000025 -0500" channel="ESPN+ 318">
+    <title lang="en">ESPN+: N Colorado vs. Weber St (N Colorado vs. Weber St)</title>
+    <desc lang="en">ESPN+: N Colorado vs. Weber St (N Colorado vs. Weber St)</desc>
+  </programme>
+  <channel id="ESPN+ 319">
+    <display-name>ESPN+ 319</display-name>
+    <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
+  </channel>
+  <programme start="20261029213000 -0500" stop="20261030003000 -0500" channel="ESPN+ 319">
+    <title lang="en">NHL: Canucks vs. Sharks (National Broadcast)</title>
+    <desc lang="en">NHL: Canucks vs. Sharks (National Broadcast)</desc>
+  </programme>
+</tv>

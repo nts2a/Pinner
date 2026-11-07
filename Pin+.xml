@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Pin+">
   <channel id="ESPN+ 001">
-    <display-name>ESPN+ 001 | Perth Glory vs. Newcastle Jets</display-name>
+    <display-name>ESPN+ 001 | Perth Glory vs. Canberra United Nov 07 2:55AM ET</display-name>
     <display-name>ESPN+ 001</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 002">
-    <display-name>ESPN+ 002 | Melbourne City FC vs. Western Sydney Wanderers FC</display-name>
+    <display-name>ESPN+ 002 | Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</display-name>
     <display-name>ESPN+ 002</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
@@ -21,12 +21,12 @@
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 005">
-    <display-name>ESPN+ 005 | Malaga CF vs. Racing Santander (Matchday #12)</display-name>
+    <display-name>ESPN+ 005 | Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</display-name>
     <display-name>ESPN+ 005</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 006">
-    <display-name>ESPN+ 006 | En Español-Malaga CF vs. Racing de Santander (Fecha #12)</display-name>
+    <display-name>ESPN+ 006 | Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</display-name>
     <display-name>ESPN+ 006</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
@@ -36,7 +36,7 @@
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 008">
-    <display-name>ESPN+ 008 | Alemannia Aachen vs. Rot-Weiss Essen</display-name>
+    <display-name>ESPN+ 008 | Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</display-name>
     <display-name>ESPN+ 008</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
@@ -56,7 +56,7 @@
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 012">
-    <display-name>ESPN+ 012 | BYU Sports Nation Gameday</display-name>
+    <display-name>ESPN+ 012 | SEC Nation</display-name>
     <display-name>ESPN+ 012</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
@@ -81,12 +81,12 @@
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 017">
-    <display-name>ESPN+ 017 | Salem vs. VMI</display-name>
+    <display-name>ESPN+ 017 | Salem vs. VMI Nov 07 10:00AM ET</display-name>
     <display-name>ESPN+ 017</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 018">
-    <display-name>ESPN+ 018 | En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</display-name>
+    <display-name>ESPN+ 018 | RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</display-name>
     <display-name>ESPN+ 018</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
@@ -156,7 +156,7 @@
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 032">
-    <display-name>ESPN+ 032 | RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</display-name>
+    <display-name>ESPN+ 032 | RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</display-name>
     <display-name>ESPN+ 032</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
@@ -166,7 +166,7 @@
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 034">
-    <display-name>ESPN+ 034 | MSV Duisburg vs. Preussen Munster</display-name>
+    <display-name>ESPN+ 034 | MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</display-name>
     <display-name>ESPN+ 034</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
@@ -251,7 +251,7 @@
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 051">
-    <display-name>ESPN+ 051 | Liberty vs. Western Kentucky</display-name>
+    <display-name>ESPN+ 051 | Western Kentucky vs. Tennessee Tech</display-name>
     <display-name>ESPN+ 051</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
@@ -1136,7 +1136,7 @@
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 228">
-    <display-name>ESPN+ 228 | Texas A&amp;M vs. #21 South Carolina</display-name>
+    <display-name>ESPN+ 228 | South Carolina Upstate vs. Samford (Quarterfinal)</display-name>
     <display-name>ESPN+ 228</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
@@ -1171,7 +1171,7 @@
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <channel id="ESPN+ 235">
-    <display-name>ESPN+ 235 | Western Kentucky vs. Tennessee Tech</display-name>
+    <display-name>ESPN+ 235 | Middle Tennessee vs. Delaware (Game 2)</display-name>
     <display-name>ESPN+ 235</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
@@ -1596,163 +1596,163 @@
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" />
   </channel>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 001">
-    <title lang="en">Perth Glory vs. Newcastle Jets</title>
-    <desc lang="en">Perth Glory vs. Newcastle Jets</desc>
+    <title lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</title>
+    <desc lang="en">Perth Glory vs. Canberra United Nov 07 2:55AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 002">
-    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC</desc>
+    <title lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</title>
+    <desc lang="en">Melbourne City FC vs. Western Sydney Wanderers FC Nov 07 3:40AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 003">
@@ -1916,163 +1916,163 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 005">
-    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12)</title>
-    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12)</desc>
+    <title lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</title>
+    <desc lang="en">Malaga CF vs. Racing Santander (Matchday #12) Nov 07 7:50AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 006">
-    <title lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</title>
-    <desc lang="en">En Español-Malaga CF vs. Racing de Santander (Fecha #12)</desc>
+    <title lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</title>
+    <desc lang="en">Malaga vs. Racing (Malaga vs. Racing de Santander (ESP))</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 007">
@@ -2156,83 +2156,83 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 008">
-    <title lang="en">Alemannia Aachen vs. Rot-Weiss Essen</title>
-    <desc lang="en">Alemannia Aachen vs. Rot-Weiss Essen</desc>
+    <title lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</title>
+    <desc lang="en">Alemannia Aachen vs. Rot_Weiss Essen Nov 07 8:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 009">
@@ -2476,83 +2476,83 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 012">
-    <title lang="en">BYU Sports Nation Gameday</title>
-    <desc lang="en">BYU Sports Nation Gameday</desc>
+    <title lang="en">SEC Nation</title>
+    <desc lang="en">SEC Nation</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 013">
@@ -2876,163 +2876,163 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 017">
-    <title lang="en">Salem vs. VMI</title>
-    <desc lang="en">Salem vs. VMI</desc>
+    <title lang="en">Salem vs. VMI Nov 07 10:00AM ET</title>
+    <desc lang="en">Salem vs. VMI Nov 07 10:00AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 018">
-    <title lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</title>
-    <desc lang="en">En Español-Espanyol vs. Deportivo A Coruña (Fecha #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 019">
@@ -4076,83 +4076,83 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 032">
-    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</title>
-    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12)</desc>
+    <title lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</title>
+    <desc lang="en">RCD Espanyol vs. Deportivo A Coruña (Matchday #12) Nov 07 10:05AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 033">
@@ -4236,83 +4236,83 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 034">
-    <title lang="en">MSV Duisburg vs. Preussen Munster</title>
-    <desc lang="en">MSV Duisburg vs. Preussen Munster</desc>
+    <title lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</title>
+    <desc lang="en">MSV Duisburg vs. Preussen Munster Nov 07 10:30AM ET</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 035">
@@ -5596,83 +5596,83 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 051">
-    <title lang="en">Liberty vs. Western Kentucky</title>
-    <desc lang="en">Liberty vs. Western Kentucky</desc>
+    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
+    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 052">
@@ -19756,83 +19756,83 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 228">
-    <title lang="en">Texas A&amp;M vs. #21 South Carolina</title>
-    <desc lang="en">Texas A&amp;M vs. #21 South Carolina</desc>
+    <title lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</title>
+    <desc lang="en">South Carolina Upstate vs. Samford (Quarterfinal)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 229">
@@ -20316,83 +20316,83 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107030000 -0600" stop="20261107060000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107060000 -0600" stop="20261107090000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107090000 -0600" stop="20261107120000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107120000 -0600" stop="20261107150000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107150000 -0600" stop="20261107180000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107180000 -0600" stop="20261107210000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107210000 -0600" stop="20261108000000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108000000 -0600" stop="20261108030000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108030000 -0600" stop="20261108060000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108060000 -0600" stop="20261108090000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108090000 -0600" stop="20261108120000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108120000 -0600" stop="20261108150000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108180000 -0600" stop="20261108210000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="ESPN+ 235">
-    <title lang="en">Western Kentucky vs. Tennessee Tech</title>
-    <desc lang="en">Western Kentucky vs. Tennessee Tech</desc>
+    <title lang="en">Middle Tennessee vs. Delaware (Game 2)</title>
+    <desc lang="en">Middle Tennessee vs. Delaware (Game 2)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107030000 -0600" channel="ESPN+ 236">

@@ -1,1 +1,1 @@
-Public XML EPG repository
+epository
